@@ -1,5 +1,5 @@
 const gridSize = 10;
-const numMines = 15;
+const numMines = 25;
 let grid = [];
 let currentPlayer = '○';
 let gameOver = false;
